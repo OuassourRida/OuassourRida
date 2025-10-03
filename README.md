@@ -77,3 +77,19 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/b3/88/d5/b388d5f270f6bc295772503d49cc5f06.jpg" alt="Footer Image" width="600"/>
 </p>
+
+## 🌸 Fun Facts & Interests  
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Hacker Logo" width="120"/>
+</p>
+
+- 🌱 I’m passionate about learning **full stack development** step by step.  
+- 🧩 I love solving **coding problems and challenges** to sharpen my skills.  
+- 🎶 When I’m not coding, I enjoy music, exploring new technologies, and reading about software engineering.  
+- 💡 My motto: *“Every expert was once a beginner.”*  
+- 🤝 Always eager to connect with fellow developers and grow together!  
+
+### 💬 Favorite Motivating Quote  
+> *“Trust the process.”* ✨
+
