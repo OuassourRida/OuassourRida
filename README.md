@@ -10,7 +10,7 @@ I’m passionate about learning full stack development step by step.<br>I love s
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ouassourrida2000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rida Ouassour) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ouassourrida615@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ouassourrida2000) [![LinkedIn]
 
 
 # 💻 Tech Stack:
