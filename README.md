@@ -1,6 +1,7 @@
 # 💫 About Me:
 I’m passionate about learning full stack development step by step.<br>I love solving coding problems and challenges to sharpen my skills.<br>When I’m not coding, I enjoy music, exploring new technologies, and reading about software engineering.<br>My motto: “Every expert was once a beginner.”<br>Always eager to connect with fellow developers and grow together!
-![My cool image](https://i.pinimg.com/736x/aa/f3/0d/aaf30d5685b74740072813c85710658b.jpg)
+![Description](https://i.pinimg.com/736x/b3/88/d5/b388d5f270f6bc295772503d49cc5f06.jpg)
+
 
 
 
